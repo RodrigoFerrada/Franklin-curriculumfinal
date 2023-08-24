@@ -8,9 +8,6 @@ a {
 
 
 @media (max-width: 768px) {
-    #Contacto form label {
-      font-weight: 400;
-    }
   
     .navbar-brand{
       width: 100px;
